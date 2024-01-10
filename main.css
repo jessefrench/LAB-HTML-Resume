@@ -1,3 +1,37 @@
 body {
-  background-color: #0d1117;
+  background-color: #001219;
+  text-align: center;
+}
+
+h2, time {
+  color: #e9d8a6;
+}
+
+p {
+  color: #e9d8a6;
+}
+
+#workplace-1 {
+  font-family: 'Courier New', Courier, monospace;
+  border: 6px double #9b2226;
+}
+
+#workplace-2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 6px dotted #bb3e03;
+}
+
+#workplace-3 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border: 10px solid #ee9b00;
+}
+
+#workplace-4 {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  border: 6px solid #94d2bd;
+}
+
+#workplace-5 {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border: 8px dashed #005f73;
 }
